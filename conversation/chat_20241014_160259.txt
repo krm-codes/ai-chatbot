@@ -1,0 +1,4 @@
+2024-10-14 16:03:04 - You: Hi! How's your day going
+2024-10-14 16:03:04 - Bot: Hi! How's your day going?
+2024-10-14 16:03:22 - You: Hi! How's your day going ?
+2024-10-14 16:03:22 - Bot: Hi! How's your day going ?

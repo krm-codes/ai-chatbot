@@ -1,0 +1,2 @@
+2024-10-14 19:49:24 - You: Hi How are you?
+2024-10-14 19:49:24 - Bot: Please provide a valid order number and specify a detail you're asking for (e.g., status, order date, etc.).

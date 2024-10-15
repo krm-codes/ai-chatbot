@@ -1,0 +1,22 @@
+2024-10-14 13:24:59 - You: What is the status of order 12345?
+2024-10-14 13:24:59 - Bot: Sorry, I couldn't find any order with number 12345 or detail for STATUS.
+2024-10-14 13:25:06 - You: What is status of order number 10263?
+2024-10-14 13:25:06 - Bot: The STATUS of order 10263 is: Shipped.
+2024-10-14 13:25:24 - You: What is product line of order 
+2024-10-14 13:25:24 - Bot: Please provide a valid order number and specify a detail you're asking for (e.g., status, order date, etc.).
+2024-10-14 13:25:29 - You: What is product line of order 10386?
+2024-10-14 13:25:29 - Bot: The PRODUCTLINE of order 10386 is: Planes.
+2024-10-14 13:25:35 - You: What is product line of order 10386?
+2024-10-14 13:25:35 - Bot: The PRODUCTLINE of order 10386 is: Planes.
+2024-10-14 13:27:29 - You: What is price of order 10386?
+2024-10-14 13:27:29 - Bot: The PRICEEACH of order 10386 is: 54.57.
+2024-10-14 13:28:02 - You: What is price of order 10386?
+2024-10-14 13:28:02 - Bot: The PRICEEACH of order 10386 is: 54.57.
+2024-10-14 13:28:48 - You: What is quantity of order 10386?
+2024-10-14 13:28:48 - Bot: The QUANTITYORDERED of order 10386 is: 25.
+2024-10-14 13:28:56 - You: What is quantity of order 10386?
+2024-10-14 13:28:56 - Bot: The QUANTITYORDERED of order 10386 is: 25.
+2024-10-14 13:29:19 - You: What is quantity of order 10373?
+2024-10-14 13:29:19 - Bot: The QUANTITYORDERED of order 10373 is: 39.
+2024-10-14 13:29:24 - You: What is quantity of order 10373?
+2024-10-14 13:29:24 - Bot: The QUANTITYORDERED of order 10373 is: 39.

@@ -1,0 +1,14 @@
+# Ignore virtual environment folder
+vaibot/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore environment-related files
+.env
+
+# Ignore any .log files
+*.log
+
+# Ignore files related to Python packaging
+*.py[cod]

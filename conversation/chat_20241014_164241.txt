@@ -1,0 +1,8 @@
+2024-10-14 16:42:46 - You: What is the status of the order 10417?
+2024-10-14 16:42:46 - Bot: Please provide a valid order number and specify a detail you're asking for (e.g., status, order date, etc.).
+2024-10-14 16:42:48 - You: What is the status of the order 10417?
+2024-10-14 16:42:48 - Bot: 
+2024-10-14 16:43:00 - You: How are you?
+2024-10-14 16:43:00 - Bot: 
+2024-10-14 16:43:07 - You: How are you?
+2024-10-14 16:43:07 - Bot: 

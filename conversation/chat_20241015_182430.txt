@@ -1,0 +1,15 @@
+2024-10-15 18:24:39 - Human: What is status of order number 10263?
+2024-10-15 18:24:53 - You: You (2024-10-15 18:24:39): What is status of order number 10263?
+2024-10-15 18:24:53 - Bot: The STATUS of order 2024 is: No order found for order number 2024..
+2024-10-15 18:25:14 - You: You (2024-10-15 18:24:39): What is status of order number 10263?
+2024-10-15 18:25:14 - Bot: The STATUS of order 2024 is: No order found for order number 2024..
+2024-10-15 18:25:34 - You: Status of order 10309 ?
+2024-10-15 18:25:34 - Bot: The STATUS of order 10309 is: Shipped.
+2024-10-15 18:26:45 - Human: Hi, May I know who are you?
+2024-10-15 18:26:45 - Bot: 
+2024-10-15 18:27:12 - Human: Do you not know who are you?
+2024-10-15 18:27:12 - Bot: 
+2024-10-15 18:27:26 - Human: Are you there?
+2024-10-15 18:27:26 - Bot: Yes
+2024-10-15 18:27:36 - Human: ok
+2024-10-15 18:27:36 - Bot: no

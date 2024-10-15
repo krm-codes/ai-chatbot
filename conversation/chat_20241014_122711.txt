@@ -1,0 +1,6 @@
+2024-10-14 12:27:11 - You: What is status of order number 10263?
+2024-10-14 12:27:11 - Bot: The STATUS of order 10263 is: Shipped.
+2024-10-14 12:44:39 - You: product line of order number 10275
+2024-10-14 12:44:39 - Bot: The PRODUCTLINE of order 10275 is: Motorcycles.
+2024-10-14 13:24:52 - You: What is the status of order 12345?
+2024-10-14 13:24:52 - Bot: Sorry, I couldn't find any order with number 12345 or detail for STATUS.

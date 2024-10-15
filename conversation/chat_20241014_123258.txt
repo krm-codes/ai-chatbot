@@ -1,0 +1,4 @@
+2024-10-14 12:32:58 - You: What is status of the order number
+2024-10-14 12:32:58 - Bot: Please provide a valid order number and specify a detail you're asking for (e.g., status, order date, etc.).
+2024-10-14 12:44:41 - You: product line of order number 10275
+2024-10-14 12:44:41 - Bot: The PRODUCTLINE of order 10275 is: Motorcycles.

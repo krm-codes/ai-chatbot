@@ -1,0 +1,4 @@
+2024-10-14 16:10:13 - You: What is the status of the order 10417?
+2024-10-14 16:10:13 - Bot: 
+2024-10-14 16:10:17 - You: Hi! How's your day going?
+2024-10-14 16:10:17 - Bot: 
